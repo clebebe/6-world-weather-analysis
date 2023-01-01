@@ -1,1 +1,3 @@
-# 6-world-weather-analysis
+# World Weather Analysis
+## Overview
+Utilize GeoViews, hvplot, and API (Geoapify & OpenWeatherMap) to plan and map out an itinerary through 4 cities in a country with desired max temperature range. Random longitudes & latitudes were selected then sorted with imported city and hotel data around the points. Then filtering through the desired max temperature range for the trip, 4 cities from a country were chosen to illustrate an itinerary using GeoViews.
